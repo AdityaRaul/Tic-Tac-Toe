@@ -17,5 +17,5 @@ A simple interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Thi
 
 # Tic Tac Toe Game Demo
 Check a live demo of Tic-Tac-Toe Game.  
-https://github.com/user-attachments/assets/2c64b0e2-db6c-4adb-af73-84f5cdd032a9
 
+https://github.com/user-attachments/assets/8a790c1e-5b14-4876-a945-5aa9fa3ea80d
