@@ -3,7 +3,7 @@ A simple interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Thi
 
 # Features
 - **Key Features**:
-  - **Two-player mode.** (Player X and Player O)
+  - **Two-player mode** (Player X and Player O)
   - **Check for win and draw conditions.**
   - **Game reset functionality.**
   - **New game option to start fresh after a game ends.**
